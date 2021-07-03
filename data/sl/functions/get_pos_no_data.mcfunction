@@ -1,0 +1,2 @@
+tellraw @s ["[",{"color":"blue","text": "要塞定位器","hoverEvent":{"action":"show_text","value":"作者：_23333_。\n点我访问作者页面"},"clickEvent":{"action":"open_url","value":"https://www.mcbbs.net/?2579708"}},"] ",{"color":"white","text": "坐标记录不完整，正在调用上一次计算结果..."}]
+function sl:show_pos

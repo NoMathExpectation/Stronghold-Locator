@@ -1,0 +1,11 @@
+{
+    "pack": 
+    {
+        "description":
+        {
+            "color":"green",
+            "text": "一个用于定位要塞的数据包"
+        },
+        "pack_format": 6
+    }
+}
